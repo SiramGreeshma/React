@@ -16,6 +16,8 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 git clone https://github.com/SiramGreeshma/React.git
+
+### Navigate to the Project Directory
 cd React/stopwatch
 
 ### Install Dependencies
