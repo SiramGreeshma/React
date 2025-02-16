@@ -15,7 +15,6 @@ Ensure you have the following installed:
 - [Git](https://git-scm.com/)
 
 ### Clone the Repository
-```sh
 git clone https://github.com/SiramGreeshma/React.git
 cd React/stopwatch
 
